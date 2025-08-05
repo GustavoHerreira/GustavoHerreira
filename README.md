@@ -3,7 +3,7 @@
 ✨ Estudante universitário de Análise e Desenvolvimento de Sistemas na **Pontifícia Universidade Católica de Minas Gerais** (PUC-Minas) 
 
 🏢 **Atuação Profissional**
-- 🎓 1/5 semestres em Análise e Desenvolvimento de Sistemas
+- 🎓 2/5 semestres em Análise e Desenvolvimento de Sistemas
 - 🚀 Estagiário de desenvolvimento back-end com Typescript (1 ano 9 meses)
 - 🚀 Estagiário de desenvolvimento back-end com Python (6 meses)
 - 🎓 6/8 semestres em Ciência da Computação (interrompido para trocar de curso)
