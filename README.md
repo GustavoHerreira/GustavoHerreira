@@ -6,6 +6,7 @@
 - 🎓 2/5 semestres em Análise e Desenvolvimento de Sistemas [atualmente]
 - 🚀 Estagiário de desenvolvimento back-end com Typescript (1 ano 9 meses)
 - 🚀 Estagiário de desenvolvimento back-end com Python (6 meses)
+- 🚀 QA Jr (automação de testes de Unidade e de Integração)
 - 🎓 6/8 semestres em Ciência da Computação (interrompido para trocar de curso)
 
 ### ⚡ Tech Stack
