@@ -6,10 +6,10 @@ Desenvolvedor Back-end apaixonado por construir soluções robustas e escalávei
 
 ### 🏢 Atuação Profissional
 
-- 🚀 Atualmente Estagiário de desenvolvimento back-end com DOTNET (C#) (desde out/2025)
-- 🚀 Estagiário de desenvolvimento back-end com Python (6 meses)
-- 🚀 Estagiário de desenvolvimento back-end com Typescript (1 ano e 9 meses)
+- 🚀 Atualmente Estagiário em Desenvolvimento Back-End com DOTNET (C#) (desde out/2025)
 - 🚀 QA Jr (automação de testes de Unidade e de Integração)
+- 🚀 Estagiário de desenvolvimento back-end com Typescript (1 ano e 9 meses)
+- 🚀 Estagiário de desenvolvimento back-end com Python (6 meses)
 
 ### 📖 Formação Acadêmica
 - 🎓 **Análise e Desenvolvimento de Sistemas** - Pontifícia Universidade Católica de Minas Gerais (Cursando, 2/5)
