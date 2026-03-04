@@ -50,34 +50,6 @@ Principais tecnologias e ferramentas que utilizo no desenvolvimento e implementa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" style="margin: 5px;"/>
 </p>
 
-### 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=GustavoHerreira&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHerreira&layout=compact&theme=radical" alt="Top Langs">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoHerreira&theme=react-dark" alt="Gráfico de Atividade">
-</p>
-
-### ⭐ Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/GustavoHerreira/task-management-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreira&repo=task-management-api&theme=radical" alt="Card do Projeto Tasks">
-  </a>
-  <a href="https://github.com/GustavoHerreira/car-rental-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreira&repo=car-rental-api&theme=radical" alt="Card do Projeto CarRental">
-  </a>
-</p>
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoherreira)
